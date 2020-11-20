@@ -20,5 +20,5 @@
     ["LAUNCH", 50000, "Cash"],
     ["UPDATE5", 50000, "Cash"],
     ["UPDATE8", 200000, "Cash"],
-    ["OSCAR", 34567, "Cash"]
+    ["OSCAR", 123456, "Cash"]
 ]
