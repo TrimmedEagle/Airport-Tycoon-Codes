@@ -1,0 +1,69 @@
+[
+
+	{
+		"ID": 1,
+		"Title": "",
+		"Description": "",
+		"Icon": 5004287417,
+		"Type": "AmountPurchases",
+		"Data": [10],
+		"Reward": 1000,
+		"End": 0
+	},
+	
+	{
+		"ID": 2,
+		"Title": "",
+		"Description": "",
+		"Icon": 5004287417,
+		"Type": "AmountPurchases",
+		"Data": [100],
+		"Reward": 2500,
+		"End": 0
+	},
+	
+	{
+		"ID": 3,
+		"Title": "",
+		"Description": "",
+		"Icon": 5004287417,
+		"Type": "AmountDroppers",
+		"Data": [100],
+		"Reward": 2500,
+		"End": 0
+	},
+	
+	{	
+		"ID": 4,
+		"Title": "First Mile",
+		"Description": "Travel a mile by plane",
+		"Icon": 5004287417,
+		"Type": "AmountDistance",
+		"Data": [5750],
+		"Reward": 2500,
+		"End": 0
+	},
+	
+	{
+		"ID": 5,
+		"Title": "Secret Cave",
+		"Description": "Find the secret cave in the Airport Tycoon universe",
+		"Icon": 5004287417,
+		"Type": "Discovery",
+		"Data": ["Cave"],
+		"Reward": 1000,
+		"End": 1630831974
+	},
+	
+	{
+		"ID": 8,
+		"Title": "",
+		"Description": "",
+		"Icon": 5004287417,
+		"Type": "ItemPurchased",
+		"Data": ["TwinProp"],
+		"Reward": 1000,
+		"End": 0
+	}
+	
+]
