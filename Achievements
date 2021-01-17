@@ -64,6 +64,16 @@
 		"Data": ["Car"],
 		"Reward": 1000,
 		"End": 0
-	}
+	},
+    	{
+       	 	"ID": 9,
+       	 	"Title": "",
+        	"Description": "",
+        	"Icon": 5004287417,
+        	"Type": "Amount Distance",
+        	"Data": [2],
+        	"Reward": 1000,
+        	"End": 0
+    	}
 	
 ]
