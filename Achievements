@@ -17,7 +17,7 @@
 		"Description": "",
 		"Icon": 5004287417,
 		"Type": "AmountPurchases",
-		"Data": [100],
+		"Data": [1],
 		"Reward": 2500,
 		"End": 0
 	},
@@ -28,7 +28,7 @@
 		"Description": "",
 		"Icon": 5004287417,
 		"Type": "AmountDroppers",
-		"Data": [100],
+		"Data": [1],
 		"Reward": 2500,
 		"End": 0
 	},
@@ -36,10 +36,10 @@
 	{	
 		"ID": 4,
 		"Title": "First Mile",
-		"Description": "Travel a mile by plane",
+		"Description": "Travel a mile by car",
 		"Icon": 5004287417,
 		"Type": "AmountDistance",
-		"Data": [5750],
+		"Data": [50],
 		"Reward": 2500,
 		"End": 0
 	},
@@ -47,7 +47,7 @@
 	{
 		"ID": 5,
 		"Title": "Secret Cave",
-		"Description": "Find the secret cave in the Airport Tycoon universe",
+		"Description": "Find the secret green part on this baseplate",
 		"Icon": 5004287417,
 		"Type": "Discovery",
 		"Data": ["Cave"],
@@ -61,7 +61,7 @@
 		"Description": "",
 		"Icon": 5004287417,
 		"Type": "ItemPurchased",
-		"Data": ["TwinProp"],
+		"Data": ["Car"],
 		"Reward": 1000,
 		"End": 0
 	}
