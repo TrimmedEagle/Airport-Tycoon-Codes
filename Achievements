@@ -70,7 +70,7 @@
        	 	"Title": "",
         	"Description": "",
         	"Icon": 5004287417,
-        	"Type": "Amount Distance",
+        	"Type": "AmountDistance",
         	"Data": [2],
         	"Reward": 1000,
         	"End": 0
